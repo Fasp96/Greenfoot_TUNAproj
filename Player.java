@@ -1,6 +1,6 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
-public class Player extends Actor
+public abstract class Player extends Actor
 {
     // Definition of variables   
      private final int BETA = 3; // Variable that defines the player's distance from the wall

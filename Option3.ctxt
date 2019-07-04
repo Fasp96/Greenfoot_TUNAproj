@@ -7,5 +7,5 @@ comment2.params=
 comment2.target=void\ act()
 comment3.params=
 comment3.target=void\ detectMouse()
-comment3.text=\r\n\ A\ method\ that\ detects\ if\ a\ mouse\ click\ has\ been\ made\ on\ an\ object,\ and\ creates\ the\ Maze2\ world,\ if\ it\ has\ occurred.\r\n
+comment3.text=\r\n\ A\ method\ that\ detects\ if\ a\ mouse\ click\ has\ been\ made\ on\ an\ object,\ and\ creates\ the\ Maze3\ world,\ if\ it\ has\ occurred.\r\n
 numComments=4
