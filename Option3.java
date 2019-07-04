@@ -21,13 +21,13 @@ public class Option3 extends Option
     }
     
     /**
-     * A method that detects if a mouse click has been made on an object, and creates the Maze2 world, if it has occurred.
+     * A method that detects if a mouse click has been made on an object, and creates the Maze3 world, if it has occurred.
      */
     public void detectMouse()
     {
         if(Greenfoot.mouseClicked(this)) // If click object
         {
-            Greenfoot.setWorld(new Maze3()); // Creation of the world Maze2 
+            Greenfoot.setWorld(new Maze3()); // Creation of the world Maze3 
         }
     }
 }

@@ -1,6 +1,6 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
-public class Enemy extends Actor
+public abstract class Enemy extends Actor
 {
     // Declaration of variables   
     private String direction = null; // Variable string that holds the direction the object moves
@@ -8,16 +8,7 @@ public class Enemy extends Actor
     private final int DELTA= 6; // Displacement of Enemy in each iteration
     private final int POINTS = -100; // Points taken when playing a player object
     
-     public void act() 
-    {
-        go();
-        checkRightObstacle();
-        checkLeftObstacle();
-        checkUpObstacle();
-        checkDownObstacle();
-        lookForPlayer1();
-        lookForPlayer2();
-    }
+    
     
     /**
      * A method that defines and executes the initial movement in a random fashion and which in 

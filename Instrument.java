@@ -1,6 +1,6 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
-public class Instrument extends Actor
+public abstract class Instrument extends Actor
 {
     public void act() 
     {

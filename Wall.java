@@ -1,6 +1,6 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
-public class Wall extends Obstacle
+public abstract class Wall extends Obstacle
 {
     public void act() 
     {

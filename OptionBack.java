@@ -25,9 +25,9 @@ public class OptionBack extends Option
      */
     public void detectMouse()
     {
-        if(Greenfoot.mouseClicked(this)) //caso haja clique no objeto
+        if(Greenfoot.mouseClicked(this)) // if click object
         {
-            Greenfoot.setWorld(new Menu()); //criação do mundo Menu
+            Greenfoot.setWorld(new Menu()); // creation of the world Menu
         }
     }
 }

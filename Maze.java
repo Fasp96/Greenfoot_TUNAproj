@@ -1,6 +1,6 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
-public class Maze extends World
+public abstract class Maze extends World
 {
     // Definition of variables
     private int scorePlayer1, scorePlayer2; // Save the player score
@@ -28,7 +28,7 @@ public class Maze extends World
     }
     
     /**
-     * Método para construir o labirinto com os objetos que pretendemos
+     * Method to construct the labyrinth with the objects that we want
      */
     public void buildMaze(String maze)
     {               
@@ -117,11 +117,11 @@ public class Maze extends World
         addPointsPlayer1(0); // Initializes player1 score at zero
         
         // Define the objects to use
-        Violin Violin1= new Violin();
-        Tambourine Tambourine1= new Tambourine();
-        Mandolin Mandolin1= new Mandolin();
-        Conga Conga1 = new Conga();
-        Saxophone Saxophone1 = new Saxophone();
+        Instrument Violin1= new Violin();
+        Instrument Tambourine1= new Tambourine();
+        Instrument Mandolin1= new Mandolin();
+        Instrument Conga1 = new Conga();
+        Instrument Saxophone1 = new Saxophone();
         Life Life11 = new Life(1);
         Life Life12 = new Life(1);
         Life Life13 = new Life(1);
@@ -159,11 +159,11 @@ public class Maze extends World
         addPointsPlayer2(0); // Initializes player2 score at zero
        
         // Define the objects to use
-        Violin Violin2= new Violin();
-        Tambourine Tambourine2= new Tambourine();
-        Mandolin Mandolin2= new Mandolin();
-        Conga Conga2 = new Conga();
-        Saxophone Saxophone2 = new Saxophone();
+        Instrument Violin2= new Violin();
+        Instrument Tambourine2= new Tambourine();
+        Instrument Mandolin2= new Mandolin();
+        Instrument Conga2 = new Conga();
+        Instrument Saxophone2 = new Saxophone();
         Life Life21 = new Life(2);
         Life Life22 = new Life(2);
         Life Life23 = new Life(2);        

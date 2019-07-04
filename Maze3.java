@@ -20,7 +20,7 @@ public class Maze3 extends Maze
        "W-WWEE-E-E-.....-W-----E---E"+
        "W-W----E---B---3---E-E-WEE-E"+
        "W-E-WE-E-EETEE-EE-E--E--B--W"+
-       "W-EBE------B------E-EVE-EEWW"+
+       "W-EBE------B------E-EBE-EEWW"+
        "E---E-WEEW-WEEW-W----------E"+
        "E-W---B-----EB----EEEE-EEE-E"+
        "E-WW-EEEEME---EEE---E----E-E"+
