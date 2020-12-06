@@ -93,7 +93,7 @@ All mazes are designed for two players, using the WASD keys to move Player1 and 
 * Individual scores for both players with the score updated in real time:
 During the game in the Maze world the score is updated in real time as shown.
 
-![image](./Maze2World.png)
+![image](./ReadMeImages/Maze2World.png)
 
 * Changing the appearance of the world (for example, background, object position, or colors) during the game:
 There is a change in the appearance of the world several times, for example when going from the menu to the game and then to the results screen.
@@ -101,7 +101,7 @@ There is a change in the appearance of the world several times, for example when
 >
 In the figure below it is possible to visualize one of the possible ways to build the world GameOver, in which one of the players reaches the stage without the other player losing the 3 lives.
 
-![image](./GameOverWorld.png)
+![image](./ReadMeImages/GameOverWorld.png)
 
 * Definition and use of methods and variables:
 As demonstrated throughout the previous explanation of the implementation, several methods and variables have been defined.
@@ -109,23 +109,23 @@ As demonstrated throughout the previous explanation of the implementation, sever
 >
 Continuing the methodology/practice referred to in classes, the figure below is an example.
 
-![image](./ReitorClassConstructor.png)
+![image](./ReadMeImages/ReitorClassConstructor.png)
 
 Inheritance of methods with a minimum of 2 levels in addition to Actor:
 
-! [image](./ExampleActoranClassesAndSubclasses.png)
+! [image](./ReadMeImages/ExampleActoranClassesAndSubclasses.png)
 
 * Overriding methods:
 >
 Overriding of the detectMouse() method in one of the subclasses of the Option class.
 
-![image](./Overriding.png)
+![image](./ReadMeImages/Overriding.png)
 
 * Method overloading:
 >
 For example overloading the world GameOver constructor.
 
-![image](./Overloading.png)
+![image](./ReadMeImages/Overloading.png)
 
 * Encapsulation:
 >
