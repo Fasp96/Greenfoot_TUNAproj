@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Life
+comment1.params=player
+comment1.target=Life(int)
+comment1.text=\r\n\ Constructor\ of\ the\ class\ Life\ that\ according\ to\ the\ parameter\ defines\ a\ certain\ image\ for\ the\ class\r\n
+numComments=2

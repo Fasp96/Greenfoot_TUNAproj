@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Player1
+comment1.params=
+comment1.target=Player1()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player1\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Player1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ checkKeyPress()
+comment3.text=\r\n\ Method\ that\ defines\ the\ movement\ of\ Player\ 1\ when\ a\ certain\ key\ is\ pressed\r\n
+comment4.params=
+comment4.target=void\ switchImage()
+comment4.text=\r\n\ Method\ to\ switch\ image\r\n
+comment5.params=
+comment5.target=void\ lookForPoints()
+comment5.text=\r\n\ Method\ that\ allows\ to\ eliminate\ the\ cases\ in\ case\ the\ player\ touches\ \r\n\ and\ adds\ the\ punctuation\r\n
+comment6.params=
+comment6.target=void\ lookForIntruments()
+comment6.text=\r\n\ Method\ that\ allows\ you\ to\ check\ if\ you\ have\ already\ picked\ up\ an\ instrument\ of\ a\ certain\ type,\ and\ if\ it\ does\ not,\ add\r\n\ points\ at\ the\ rate\ of\ Player1\ and\ eliminates\ the\ size\ of\ the\ instrument,\ the\ instrument\ on\ the\ side\ of\ the\ world,\ to\ inform\ the\ player.\r\n\ Check\ if\ all\ objects\ are\ picked\ up\ if\ yes,\ adopt\ method\ changeStage\ ()\ of\ Stage\ class.\r\n\ Also\ executes\ the\ commands\ of\ class\ GameOver\ if\ the\ required\ ones\ are\ confirmed.\ \r\n
+comment7.params=
+comment7.target=void\ lookForEnemy()
+comment7.text=\r\n\ Method\ that\ checks\ if\ the\ Player\ is\ playing\ on\ an\ Enemy.class\ object\ and\ executes\ the\ livesPlayer1\ ()\ method\ \r\n\ of\ the\ Maze\ class\ if\ it\ is.\r\n
+numComments=8

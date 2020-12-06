@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Option3
+comment1.params=
+comment1.target=Option3()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Option1.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ detectMouse()
+comment3.text=\r\n\ A\ method\ that\ detects\ if\ a\ mouse\ click\ has\ been\ made\ on\ an\ object,\ and\ creates\ the\ Maze3\ world,\ if\ it\ has\ occurred.\r\n
+numComments=4

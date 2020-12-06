@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Robot
-comment1.params=
-comment1.target=Robot()
-comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Robot\r\n
-comment2.params=
-comment2.target=void\ act()
-numComments=3
