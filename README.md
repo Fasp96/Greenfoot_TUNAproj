@@ -113,7 +113,7 @@ Continuing the methodology/practice referred to in classes, the figure below is 
 
 Inheritance of methods with a minimum of 2 levels in addition to Actor:
 
-! [image](./ReadMeImages/ExampleActoranClassesAndSubclasses.png)
+![image](./ReadMeImages/ExampleActoranClassesAndSubclasses.png)
 
 * Overriding methods:
 >
