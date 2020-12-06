@@ -1,5 +1,7 @@
 # GreenFoot TUNA project
 
+![image](./ReadMeImages/mainImage.png)
+
 ## Introduction
 
 This project was carried out within the scope of the Object Oriented Programming unit, where the aim is to develop a game using a Greenfoot platform, based on the theme of “traditional academic tunas in higher education” (for more information about it https://en.wikipedia.org/wiki/Tuna_(music)).
